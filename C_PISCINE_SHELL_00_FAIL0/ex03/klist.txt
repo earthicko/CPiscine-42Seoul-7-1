@@ -1,0 +1,5 @@
+Credentials cache: API:3BDBD717-81A2-4079-BA5D-8C0E24C3B956
+        Principal: donghyle@42SEOUL.KR
+
+  Issued                Expires               Principal
+Apr 12 09:48:16 2022  Apr 12 19:48:10 2022  krbtgt/42SEOUL.KR@42SEOUL.KR
