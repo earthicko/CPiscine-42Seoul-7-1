@@ -1,0 +1,10 @@
+source ~/.zshrc
+norm ./ex00/ft_ft.c
+norm ./ex01/ft_ultimate_ft.c
+norm ./ex02/ft_swap.c
+norm ./ex03/ft_div_mod.c
+norm ./ex04/ft_ultimate_div_mod.c
+norm ./ex05/ft_putstr.c
+norm ./ex06/ft_strlen.c
+norm ./ex07/ft_rev_int_tab.c
+norm ./ex08/ft_sort_int_tab.c

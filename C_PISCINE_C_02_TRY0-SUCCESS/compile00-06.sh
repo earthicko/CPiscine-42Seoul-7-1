@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Werror main00-06.c ./ex00/ft_strcpy.c ./ex01/ft_strncpy.c ./ex02/ft_str_is_alpha.c ./ex03/ft_str_is_numeric.c ./ex04/ft_str_is_lowercase.c ./ex05/ft_str_is_uppercase.c ./ex06/ft_str_is_printable.c -o test00-06

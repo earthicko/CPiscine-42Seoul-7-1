@@ -1,0 +1,1 @@
+gcc -Wall -Wextra -Werror main07-12.c ./ex07/ft_strupcase.c ./ex08/ft_strlowcase.c ./ex09/ft_strcapitalize.c ./ex10/ft_strlcpy.c ./ex11/ft_putstr_non_printable.c ./ex12/ft_print_memory.c -o test07-12
